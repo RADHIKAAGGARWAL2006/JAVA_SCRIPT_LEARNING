@@ -1,2 +1,4 @@
 # JAVA_SCRIPT_LEARNING
-Learning JS
+Creating first github repo.
+<br>
+Restarting github learning..letsss goooooooo
